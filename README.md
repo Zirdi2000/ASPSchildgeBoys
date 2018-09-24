@@ -1,2 +1,2 @@
 # ASPSchildgeStudents
-This is the ASP Schildge Boys
+This is the ASP Schildge Students
